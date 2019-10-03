@@ -16,7 +16,7 @@ let package = Package(
             targets: ["CocoaMQTT"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/grangej/CocoaAsyncSocket.git", from: "7.6.0"),
+        .package(url: "https://github.com/grangej/CocoaAsyncSocket.git", from: "7.7.0"),
     ],
     targets: [
         .target(
